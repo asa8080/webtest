@@ -13,5 +13,5 @@ This is Python demo test suite for testing web site functionality
 2. OR run individual TestCase by "python <destination_path>\<test_case>.py"
 3. OR run individual test by "python <destination_path>\<test_case>.py <TestCaseName>.<test_name>"
 
-#Checking test results
+# Checking test results
 In the <destination_path> where python files are installed, check HTML_Test_Runner_ReportTest.txt for summary and <destination_path>\reports folder for the individual Test Case reports
